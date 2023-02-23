@@ -1,0 +1,21 @@
+Version 1.80 Changelog:
+
+>[Added] option for open browser link's in TIkTok, useful when you want to watch a video
+>[Added] option to choose the location of downloaded profile pictures
+>[Remove] a lot of unnecessary strings, making translation easier
+>[Added] Option for disable playing videos in loop behavior
+>[Added] Option for hide live streams from timeline
+>[Added] Option for hide post captions from everywhere
+>[Added] Option for hide long posts (with custom length) from timeline
+>[Ability] to change download directory
+>[Ability] to make keyword blocklist for captions (Post's with specific words will not appear in timeline)
+>[Remove] Video watermark & GIF watermark options
+>[Ability] to bypass duet & stitch privacy settings
+>[Added] Theme switcher for plugin
+>[Added] new speeds in playback speed option. (1.25x, 1.5x, 2.25x, 2.5x)
+>[Added] for downloading videos without sound (Mute videos will save with mute.mp4 prefix)
+>[Added] for changing font style (Currently support 6 new font + default)
+>[Added] for changing ui colors like main bottom background color
+>[Fixed] an issue with Slovakia and Slovenia
+>[Tap] app bar for navigating to top of the options list
+>[Long] press on options to see more info
